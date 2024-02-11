@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FitnessTrackerGame</string>
+    <string name="log_data">Log Gym Data</string>
+    <string name="main_activity_title">Fitness Summary</string>
+    <string name="game_activity_title">Your Gym</string>
+    <string name="upgrade_activity_title">Upgrades</string>
+    <string name="upgrade_1">Weights</string>
+    <string name="upgrade_cost_1">$100</string>
+    <string name="default_step_count">6500</string>
+    <string name="sets_label">Sets :</string>
+    <string name="reps_label">Reps :</string>
+    <string name="steps_label">Steps :</string>
+</resources>
